@@ -1,0 +1,9 @@
+{
+	"ip":"amangamer9123.aternos.me",
+	"port": 30133,
+	"name": "afkbot1",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (HRraj7488) (HRraj7488)",
+	"login-cmd":"/login (HRraj7488)"
+}
